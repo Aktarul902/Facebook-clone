@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+.font-size{
+    font-size: 28px;
+    line-height: 39px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    top:19rem;
+    left: 12rem;
+}
+.right-side{
+    box-shadow: 0 27px -1px rgb(0 0 0 / 38%), 0 72px 55px rgb(0 0 0 / 10%);
+    border-radius: 10px;
+}
+
+@tailwind utilities;
